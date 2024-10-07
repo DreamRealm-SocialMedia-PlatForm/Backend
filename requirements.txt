@@ -1,0 +1,5 @@
+django==4.0.1
+django-rest-framework
+django-cors-headers
+django-jazzmin
+rest_framework_simplejwt

@@ -1,0 +1,9 @@
+# django ignores
+*.pyc
+*.pyo
+*.db
+*.db.old
+*.sqlite3
+*.sqlite3-journal
+media_root
+static
